@@ -1,0 +1,11 @@
+{
+    "archiveKey": "bitdefendergravityzonewindowsdownloader", 
+    "deployPath": "{bitdefenderInstallerUncPath}", 
+    "enabled": true, 
+    "key": "deploybitdefenderendpointsecuritytoolsinstallerfiles", 
+    "name": "Deploy Bitdefender Endpoint Security Tools Installer Files", 
+    "osCredKey": "bitdefenderendpointadministratorcredential", 
+    "serverKey": "bitdefenderendpointnode", 
+    "type": "com.servertribe.attune.tuples.StepPushDesignFileTuple", 
+    "unpack": true
+}

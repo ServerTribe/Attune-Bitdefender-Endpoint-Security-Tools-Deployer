@@ -1,0 +1,1 @@
+Universal Naming Convention example: /c$/software/bitdefender/

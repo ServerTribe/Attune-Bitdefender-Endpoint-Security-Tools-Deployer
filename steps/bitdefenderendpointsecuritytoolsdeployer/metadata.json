@@ -1,0 +1,14 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "isBlueprint": true, 
+    "key": "bitdefenderendpointsecuritytoolsdeployer", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "installbitdefendertomanydevices"
+        }
+    ], 
+    "name": "Bitdefender Endpoint Security Tools Deployer", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}

@@ -1,0 +1,6 @@
+{
+    "key": "bitdefenderinstalleruncpath", 
+    "name": "Bitdefender Installer UNC Path", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.Text"
+}

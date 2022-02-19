@@ -1,0 +1,6 @@
+{
+    "key": "bitdefenderinstallerdospath", 
+    "name": "Bitdefender Installer DOS Path", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.Text"
+}

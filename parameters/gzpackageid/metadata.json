@@ -1,0 +1,6 @@
+{
+    "key": "gzpackageid", 
+    "name": "GZ Package Id", 
+    "showInPlan": true, 
+    "type": "c.s.s.b.phv.Text"
+}

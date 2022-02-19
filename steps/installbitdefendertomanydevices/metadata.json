@@ -1,0 +1,18 @@
+{
+    "concurrency": 1, 
+    "enabled": true, 
+    "isBlueprint": false, 
+    "key": "installbitdefendertomanydevices", 
+    "links": [
+        {
+            "order": 0, 
+            "stepKey": "deploybitdefenderendpointsecuritytoolsinstallerfiles"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "installbitdefender"
+        }
+    ], 
+    "name": "Install Bitdefender to many Devices", 
+    "type": "com.servertribe.attune.tuples.StepGroupTuple"
+}
