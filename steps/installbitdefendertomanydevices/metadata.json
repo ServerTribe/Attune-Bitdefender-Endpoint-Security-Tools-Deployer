@@ -7,6 +7,10 @@
         {
             "order": 0, 
             "stepKey": "deploybitdefenderendpointsecuritytoolsinstallerfiles"
+        }, 
+        {
+            "order": 100, 
+            "stepKey": "installbitdefenderendpointsecuritytoolsondevice"
         }
     ], 
     "name": "Install Bitdefender to many Devices", 

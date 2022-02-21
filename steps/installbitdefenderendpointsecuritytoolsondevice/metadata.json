@@ -1,0 +1,14 @@
+{
+    "enabled": true, 
+    "interpreter": 2, 
+    "interpreterCommand": null, 
+    "interpreterScriptExt": null, 
+    "interpreterScriptSyntax": "powershell", 
+    "key": "installbitdefenderendpointsecuritytoolsondevice", 
+    "name": "Install Bitdefender Endpoint Security Tools on Device", 
+    "osCredKey": "bitdefenderendpointadministratorcredential", 
+    "serverKey": "bitdefenderendpointnode", 
+    "successExitCode": 0, 
+    "timeout": null, 
+    "type": "com.servertribe.attune.tuples.StepWinRmTuple"
+}
